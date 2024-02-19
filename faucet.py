@@ -34,9 +34,9 @@ duco_dnt0 = str("DUCO: Faucet_Furimos69")
 ### Defining variables that u see after POST(typing username) request
 
 # Variables with faucet wallet details
-faucetUsername = ''
-faucetPassword = ''
-msgToSend = 'Furim_Faucet' # Message to send with ducos
+faucetUsername = 'gamecat999'
+faucetPassword = 'Jbllc100'
+msgToSend = 'KATfaucet' # Message to send with ducos
 
 ### Code that is executed every time u visit website
 @app.route("/", methods=['GET']) # Defining request that u can do get(get info)
